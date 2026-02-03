@@ -52,7 +52,7 @@ const App = () => {
 
   const timelineData = [
     {
-      date: "2026-02-01",
+      date: "2026-02-07",
       title: "Rose Day",
       subtitle: "Where it all began",
       story: `
@@ -71,7 +71,7 @@ The rose is the flower that bloomed when we met. Our journey started with a simp
       color: "from-rose-100 to-rose-200",
     },
     {
-      date: "2026-02-01",
+      date: "2026-02-08",
       title: "Propose Day",
       subtitle: "The Turning Point",
       story: `The day we raised the question was one of fear, suspense, and love.
@@ -102,7 +102,7 @@ Today is about that moment I knew you were the one.`,
       color: "from-pink-100 to-rose-200",
     },
     {
-      date: "2026-02-01",
+      date: "2026-02-09",
       title: "Chocolate Day",
       subtitle: "The Sweetness of Us",
       story: `Chocolate and us have a long way.
@@ -128,7 +128,7 @@ From midnight snacks to shared desserts, you make life infinitely sweeter.`,
       color: "from-amber-100 to-orange-200",
     },
     {
-      date: "2026-02-1",
+      date: "2026-02-10",
       title: "Teddy Day",
       subtitle: "Warmth & Comfort",
       story: `When I snuggle you, every touch feels like a pillow,
@@ -151,7 +151,7 @@ You are my safe haven. Like a warm embrace on a cold night, your presence is the
       color: "from-stone-100 to-stone-200",
     },
     {
-      date: "2026-02-1",
+      date: "2026-02-11",
       title: "Promise Day",
       subtitle: "My Vows to You",
       story: `A lot of promises were made on the day shown in the picture.
@@ -181,7 +181,7 @@ I promise to choose you every day. I promise to listen, to grow with you, and to
       color: "from-blue-50 to-indigo-100",
     },
     {
-      date: "2026-02-01",
+      date: "2026-02-12",
       title: "Hug Day",
       subtitle: "Home is a Feeling",
       story: `Hugs are the only way for us to show love in public without raising an eyebrow.
@@ -201,7 +201,7 @@ and is severely disapproved by society’s CCTVs
       color: "from-warmGray-100 to-orange-100",
     },
     {
-      date: "2026-02-1",
+      date: "2026-02-13",
       title: "Kiss Day",
       subtitle: "Magic in the Air",
       story: `Well, now that it’s the 13th of February,
@@ -227,7 +227,7 @@ Every kiss feels like the first time. It’s the electricity of our connection a
       color: "from-red-50 to-rose-100",
     },
     {
-      date: "2026-02-1",
+      date: "2026-02-14",
       title: "Valentine’s Day",
       subtitle: "Our Forever Begins",
       story: `Well, it’s Valentine’s Day,
